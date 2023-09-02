@@ -1,15 +1,15 @@
 # Maintainer: DarkXero <info@techxero.com>
-pkgname=calamares-cfg
+pkgname=calamares-surface-cfg
 _destname1="/etc"
 pkgver=3.3.0.1
 pkgrel=1
-pkgdesc="calamares 3.3 Config for XeroLinux"
+pkgdesc="calamares 3.3 Config for XeroLinux Surface"
 arch=('any')
-url="https://github.com/XeroLinux"
+url="https://github.com/CVLover"
 license=('GPL3')
 makedepends=('git')
 depends=()
-conflicts=('calamares-config-dev')
+#conflicts=('calamares-config-dev')
 provides=("${pkgname}")
 options=(!strip !emptydirs)
 source=(${pkgname}::"git+${url}/${pkgname}")

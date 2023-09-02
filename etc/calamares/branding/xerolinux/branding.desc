@@ -12,13 +12,14 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         XeroLinux
-    shortProductName:    XeroLinux
+    productName:         XeroLinux Surface
+    shortProductName:    XeroLinux Surface
     version:             2023.09
     shortVersion:        2023.09.12
-    versionedName:       XeroLinux
-    shortVersionedName:  XeroLinux
-    bootloaderEntryName: XeroLinux
+    versionedName:       XeroLinux Surface
+    shortVersionedName:  XeroLinux Surface
+    shortVersionedName:  XeroLinux Surface
+    bootloaderEntryName: XeroLinux 
     productUrl:          https://xerolinux.xyz/
     supportUrl:          https://xerolinux.xyz/
     releaseNotesUrl:     https://forum.xerolinux.xyz/thread-4.html
