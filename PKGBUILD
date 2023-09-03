@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=calamares-surface-cfg
 _destname1="/etc"
-pkgver=3.3.0.1
+pkgver=3.3.0.2
 pkgrel=1
 pkgdesc="calamares 3.3 Config for XeroLinux Surface"
 arch=('any')
